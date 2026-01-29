@@ -1,112 +1,137 @@
 # Jurandir Junior
-**Analista de Machine Learning**
-
----
-## Técnologias
-
-**Python** | **Linux** | Arduino | R | SQL | Flutter | Power BI | Machine Learning | Data Science | Data Visualization
-
+**Analista de Desenvolvimento**
 
 ---
 
-## Sobre Mim
+## 🚀 Tecnologias
 
-Com três anos de experiência, possuo uma base sólida em resolução de problemas, criatividade e comunicação, habilidades essenciais para o desenvolvimento de soluções inovadoras em Machine Learning. Minha trajetória inclui a criação da startup Moonlight Ltda. e atuação como Analista de Suporte na Prefeitura de Santana de Parnaíba, onde desenvolvi habilidades técnicas e estratégicas. Foi lá também que criei uma ferramenta inteligente baseada no modelo LLaMA da Meta. Com conhecimentos em Python, automação e análise de dados, busco aplicar conceitos de IA em cenários reais, contribuindo para a integração de soluções inovadoras e eficientes.
+**Python** | **SQL** | **PostgreSQL** | **Git/GitHub** | **HTML/CSS/JavaScript** | Power BI | Machine Learning | Data Science | Linux | Arduino | R
 
 ---
 
-## Informações Pessoais
+## 👨‍💻 Sobre Mim
+
+Desenvolvedor com experiência em programação Python, SQL e orientação a objetos. Minha trajetória inclui atuação em desenvolvimento de soluções de automação, APIs REST e análise de dados, tanto no setor público quanto privado. Atualmente trabalho na Lattine Group como Analista de Suporte Microsoft 365, onde também desenvolvo procedimentos e forneço insights técnicos sobre ferramentas corporativas.
+
+Tenho experiência com metodologias ágeis, trabalho em equipe e familiaridade com bancos de dados relacionais. Meu foco está em aplicar boas práticas de código e lógica de programação para criar soluções eficientes e escaláveis.
+
+---
+
+## 📫 Informações de Contato
 
 - **Nome:** Jurandir Batista de Souza Junior
 - **Email:** Jura15012001@gmail.com
 - **LinkedIn:** [Jurandir Jr](https://www.linkedin.com/in/jurandir-jr)
-- **GitHub:** [Jurandir Jr](https://github.com/Junior-Jurandir)
-- **Telefone:** (11) 98712-3161 / (11) 97248-0874
-- **Endereço:** Rua Aracaju 20, Santana de Parnaíba - SP
+- **GitHub:** [Junior-Jurandir](https://github.com/Junior-Jurandir)
+- **Telefone:** (11) 98712-3161 / (11) 93368-8754
+- **Localização:** Santana de Parnaíba - SP
 
 ---
 
-## Resumo
+## 💼 Experiência Profissional
 
-**2023–2025**  
+**Out. 2025 – Atual**  
+**Analista de Suporte Microsoft 365**  
+**Lattine Group**
+- Suporte técnico multicanal para ferramentas Microsoft 365, LinkedIn e Oracle
+- Desenvolvimento de procedimentos para gerenciamento de ferramentas corporativas
+- Aplicação de treinamentos sobre administração de Microsoft 365 e LinkedIn
+- Fornecimento de insights sobre Microsoft 365, Fabric e Azure
+
+**Maio 2025 – Out. 2025**  
+**Analista de Dados**  
+**Prefeitura de Santana de Parnaíba**
+- Desenvolvimento de aplicações em Python com foco em automação e análise de dados (processamento de +15.000 registros)
+- Implementação de soluções com visão computacional para processamento de imagens médicas
+- Criação de scripts de automação com Python, reduzindo tempo de execução de tarefas operacionais
+- Trabalho com bancos relacionais (SQL Server, PostgreSQL) para extração e transformação de dados
+
+**2023 – 2024**  
 **Analista de Suporte Técnico**  
-**LIDERANÇA · Prefeitura de Santana de Parnaíba**  
-- Atuei na gestão do setor de Service Desk da Prefeitura de Santana de Parnaíba, desenvolvendo habilidades para resolução de problemas, governança de TI, trabalhando para a certificação do setor na ISO 9001 e atuando ativamente na capacitação dos funcionários do setor.
+**Prefeitura de Santana de Parnaíba**
+- Desenvolvimento de ferramenta de classificação automática de chamados em Python (redução de 80% no tempo de escalonamento)
+- Criação de scripts para automação de processos técnicos e documentação de soluções
+- Apoio em processos de conformidade e gestão de acessos
 
-**2022–2023**  
+**2022 – 2023**  
 **Web Designer**  
-**EMPREENDIMENTO · Moonlight Ltda.**  
-- Empreendi como Web Designer, criando páginas de venda para empreendedores locais e facilitando a introdução deles ao ambiente digital. Encerrei o projeto ao ser chamado para trabalhar na prefeitura, mas indiquei uma empresa de confiança para dar continuidade ao atendimento dos clientes.
+**Moonlight Ltda.**
+- Criação de páginas web para clientes locais utilizando HTML, CSS e JavaScript
+- Desenvolvimento de interfaces responsivas e otimização de experiência do usuário
 
 ---
 
-## Formação Acadêmica
+## 🎓 Formação Acadêmica
 
-**2019**  
-**Ensino Médio**  
-**C.M. Dr. Paulo Octávio Botelho · SP**
-
-**2024**  
-**Ciência da Computação**  
+**2025**  
+**Bacharelado em Ciências da Computação**  
 **UNIP · SP**
 
 ---
 
-## Habilidades
+## 📜 Certificações
 
-- **Programação:** Python, R, SQL, Arduino
-- **Criatividade**
-- **Gestão de TI**
-- **Suporte Técnico**
-- **ISO 9001**
-- **Treinamento de Pessoal**
+- **Inteligência Artificial e Computacional** – FIAP (2025)
+- **Python para Análise de Dados** – Asimov Academy (2025)
+- **Formação Completa Inteligência Artificial - 2025** – Udemy (2025)
+- **Leadership Communication** – FIAP (2025)
 
 ---
 
-## Experiência Profissional
+## 🛠️ Habilidades Técnicas
 
-**2023–2025**  
-**Analista de Suporte Técnico**  
-**LIDERANÇA · Prefeitura de Santana de Parnaíba**  
-- Suporte à equipe de NL desenvolvimento de materiais para a base de conhecimento, análise de indicadores e apoio na avaliação de colaboradores, visando a melhoria contínua dos processos e da eficiência no atendimento.
+**Linguagens e Frameworks:**  
+Python | SQL | HTML | CSS | JavaScript
 
-**2019**  
-**Web Designer**  
-**EMPREENDIMENTO · Moonlight Ltda.**  
-- Confeccionar páginas web para marketing pessoal e corporativo, prestar suporte técnico a essas páginas e gerenciar campanhas de tráfego pago.
+**Bancos de Dados:**  
+SQL Server | PostgreSQL | Modelagem de Dados | ETL
 
----
+**Ferramentas:**  
+Git/GitHub | Power BI | VS Code | Microsoft 365 Suite
 
-## Últimos Cursos e Publicações
+**Metodologias:**  
+Scrum | Desenvolvimento Ágil
 
-**2024**  
-- **Dominando LLMs com Langchain**
-- **Asimov: IA Generativa especializada em Suporte técnico**
-
-**2025**  
-- **Formação completa em IA e Machine Learning**
+**Outros:**  
+REST APIs | Programação Orientada a Objetos | Automação de Processos | Machine Learning
 
 ---
 
-## Palestras Ministradas
+## 🚧 Projetos em Destaque
 
-**Fev. 2024**  
-- **Soft skills para suporte técnico**  
-  Prefeitura de Santana de Parnaíba, Fev. 2024.
+### REST API/Dashboard de Impressoras
+Desenvolvimento de sistema para monitoramento de recursos com backend em Python. MVP criado para treinamento técnico e controle de contrato de outsourcing.
+
+### JulIA – Assistente Didática
+Assistente didática em Python para ensino de redes e sistemas, aplicando conceitos de IA.
+
+### Ferramenta de Classificação de Chamados
+Sistema inteligente para classificação automática de tickets no Service Desk, resultando em otimização significativa do processo de escalonamento.
 
 ---
 
-## Interesses Pessoais
+## 🌐 Idiomas
 
-Em meu tempo livre gosto de desenvolver projetos de automação ou IA, que me auxiliem no meu trabalho, além de passar um tempo de qualidade com minha noiva, minha família e amigos.
+- **Português:** Nativo
+- **Inglês:** Avançado
+- **Espanhol:** Intermediário
 
 ---
 
-## Interesses Profissionais
+## 💡 Interesses
 
-- **ITIL**
-- **Suporte Técnico**
-- **Linux**
-- **Inteligência Artificial**
-- **Atendimento Humanizado**
-- **Gestão de Pessoas**
+**Profissionais:**  
+Desenvolvimento Back-end | Inteligência Artificial | Automação | Cloud Computing | DevOps
+
+**Pessoais:**  
+Desenvolver projetos de automação e IA que otimizem processos do dia a dia, além de tempo de qualidade com família e amigos.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Junior-Jurandir&show_icons=true&theme=dark)
+
+---
+
+⭐ **Sempre aberto a novos desafios e oportunidades de colaboração!**
